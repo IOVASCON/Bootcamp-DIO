@@ -1,6 +1,16 @@
 {
     "java.project.sourcePaths": [
-        "BootcampJavaOO/src",
-        "BootcampJavaOO"
+        "BootcampJavaOO",
+        "BootcampJavaOO\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.base.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.swing.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.web.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.controls.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Arquivos de Programas\\Java\\javafx-sdk-22.0.1\\lib\\javafx.media.jar"
     ]
 }
